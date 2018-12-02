@@ -1,0 +1,26 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3-color": "^1.1.0",
+    "d3-interpolate": "^1.1.6",
+    "react": "^16.3.2",
+    "react-circular-progressbar": "^0.8.0",
+    "react-countdown-clock": "^2.4.0",
+    "react-dom": "^16.3.2",
+    "react-liquid-gauge": "^1.2.4",
+    "react-live-clock": "^2.0.3",
+    "react-scripts": "1.1.4",
+    "react-svg-gauge": "^1.0.8",
+    "react-thermometer-component": "^1.0.1",
+    "react-websocket": "^2.0.0",
+    "util": "^0.10.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
